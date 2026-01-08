@@ -40,3 +40,5 @@ Dan code voor elke gekleurde bal op het scene:
 Score berekeningen gaan door game manager:
 
 ![Game manager](M2/project1/gameManager.png)
+
+Later zal ik effecten en geluid toevoegen. Ook denk ik aan dit spel 2 spelers te maken.
