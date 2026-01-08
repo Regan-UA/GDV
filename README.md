@@ -8,7 +8,7 @@ Hier heb ik een systeem voor het genereren van deeltjes.
 ![les1 preview before](M2/les1/before.gif)
 
 Het genereert alleen zware ionen.
-Maar ik kan elektronen toevoegen aan het scriptbare objectrecept in de inspecteur (het gebruikt lijsten en hun indexen om deeltjes te identificeren).
+Maar ik kan elektronen toevoegen aan het scriptable object in de inspector (het gebruikt lijsten en hun indexen om deeltjes te identificeren).
 
 ![screnshot](M2/les1/Screenshot.png)
 
